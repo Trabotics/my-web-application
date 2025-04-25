@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://54.91.50.39:8181/landmark/repository/dosh-releases/</url>
+	      <url> http://54.91.50.39:8181/landmark/repository/jodoby-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.91.50.39:8181/landmark/repository/dosh-snapshot/</url>
+	      <url>http://54.91.50.39:8181/landmark/repository/jodoby-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
