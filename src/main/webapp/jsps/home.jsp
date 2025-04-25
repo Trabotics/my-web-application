@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h2 align="center"> Welcome to Dosh Dynasty. We are a Unique people empowered by God and positioned far above principalities and powers. 
-        We are a Lovely family with a strong bond of Unity.
+        We are a Lovely family with a strong bond of Unity. Created in Christ Jesus unto good works to declare his praise and glory.
 	The shout of the King Jesus is in our midst. JESUS IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
