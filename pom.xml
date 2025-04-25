@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>dosh-webapp</finalName>
+		<finalName>jodoby-app</finalName>
 		
 		<plugins>
 			<plugin>
